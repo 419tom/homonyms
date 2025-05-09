@@ -25,6 +25,12 @@ pip install -r requirements.txt
 ## 3. Install SpaCy Model (if still required)
 python -m spacy download en_core_web_sm
 
+## 4. Run script for Cosine Similarities
+python cosine_similarities.py
+
+## 5. Run Script for Visual Analysis (Barplot)
+python similarity_analysis.py
+
 
 
 
