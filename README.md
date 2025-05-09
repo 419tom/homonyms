@@ -3,7 +3,7 @@
 An analysis of representational distance between noun-noun homonyms, noun-verb homonyms, and unambiguous words using BERT embeddings. 
 This project replicates and extends the methodology from **Mirman et al. (2010)** to assess semantic similarity based on contextual embeddings. 
 
-## Setup Instructions
+## Setup Instructions:
 
 ## 1. Clone and Navigate to the Repository
 
