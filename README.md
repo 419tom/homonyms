@@ -7,19 +7,20 @@ This project replicates and extends the methodology from **Mirman et al. (2010)*
 
 ## 1. Clone and Navigate to the Repository
 
-```bash
 git clone https://github.com/419tom/homonyms.git 
 cd homonyms 
 
 ## 2. Create Virtual Environment
 conda env create -f homonyms.yml 
 conda activate homonyms 
+
 ## OR
-## 3. Run Requirements
+
+## 2. Run Requirements
 pip install -r requirements.txt
 
 
-## 4. Install SpaCy Model (if still required)
+## 3. Install SpaCy Model (if still required)
 python -m spacy download en_core_web_sm
 
 
